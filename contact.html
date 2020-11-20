@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Feedback</title>
+		<meta name="description" content="Feedback page" />
+		<meta name="keywords" content="HTML" />
+		<meta name="author" content="Shikhar Joshi" />
+		<link rel="stylesheet" href="css/style.css">
+		<style>
+			h2 {
+  			  text-shadow: 2px 2px #FF0000;
+			}
+
+		body {
+				
+				background: url('images/block.jpg');
+				background-size: 100% 100%;
+		}
+		.text {
+				font-family:Comic Sans MS;
+				color:#ff3300;
+		}
+		
+		</style>
+	</head>
+	<body>
+		<header>
+			<h1 style="font-family:Arial Black New;color:#e0e0e0;">Welcome!</h1>
+		</header>
+		<nav>
+		<!-- navigation bar /-->
+			<table style="width:90%;margin:auto;">
+				<tr>
+					<th class="menu">
+						<a href="home.html">Home</a>
+					</th>
+					<th class="menu">
+						<a href="research.html">Research</a>
+					</th>
+					<th class="menu">
+						<a href="blog.html">Blog</a>
+					</th>
+					<th class="menu">
+						<a href="cv.html">Resume</a>
+					</th>
+					<th class="current">
+						<a href="#">Contact</a>
+					</th>
+				</tr>
+			<table>
+		</nav>
+		<header>
+			<h1 style="font-family:Courier New;color:#b5cc96;text-align:center;">Help me improve by filling this feedback form:</h1>
+			<br>
+			<br>
+		</header>
+		<div class="container2">
+			<h1>Feedback Form</h1>
+			<br>
+			<form name="messageForm" onsubmit="validateForm()">
+			<p style="font-family: Arial Black; color:#e8d0f2;">First Name: <input type="text" name="firstname" placeholder="Enter here"></p><br>
+				<p style="font-family: Arial Black; color:#e8d0f2;">Last Name: <input type="text" name="lastname" placeholder="Enter here"></p><br>
+				<p style="font-family: Arial Black; color:#e8d0f2;">E-mail: <input type="email" name="email" placeholder="Eg: abc@email.com"></p><br>
+				<p style="font-family: Arial Black; color:#e8d0f2;">Gender: <input type="radio" name="gender" value="male" checked> Male 
+				<input type="radio" name="gender" value="female"> Female
+				<input type="radio" name="gender" value="other"> Other </p><br>
+				<p style="font-family: Arial Black; color:#e8d0f2;">Enter Your Message: <br><textarea name="message" rows="15" cols="50" placeholder="Enter Message"></textarea></p>
+				<input type="submit" value="Send">
+		</form>
+		<script>
+			function validateForm() {
+				var fname = document.forms["messageForm"]["firstname"].value;
+				var lname = document.forms["messageForm"]["lastname"].value;
+				var email = document.forms["messageForm"]["email"].value;
+				var gender = document.forms["messageForm"]["gender"].value;
+				var message = document.forms["messageForm"]["message"].value;
+				if (fname == "" || lname == "" || email == "" || message == ""){
+					alert("Empty fields found. Please fill the form.");
+				}
+				else {
+					alert("Thank you for the feedback.");
+				}
+			}
+		</script>
+		</div>
+		<footer>
+			<br>
+			<table width="100%">
+				<tr>
+					<th>
+					<div>
+						<h2>In case of queries,</h2>
+						<br>
+						<p>Contact No: +9779868371523</p>>
+						<p>Email: Shikharjoshi10@gmail.com</p>
+					</div>>	
+					<hr>	
+					<div style="color:Azure;font-family:Courier New;">
+						<h3>A quick and straightforward guide to my small world.</h3>
+						<p>Copyright &copy; 2019 Shikhar Joshi</p>
+					<div>
+					</th>
+				</tr>
+			</table>
+		</footer>
+	</body>
+</html>
