@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding= "UTF-8"?>
+<?xml-stylesheet type="text/css" href="catalog_18029973.css"?>
+
+<ReclaimedRust xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="catalog_18029973.xsd">
+	<details>
+		<logo> </logo>
+		<shopName> The Reclaimed Rust </shopName>
+		<address> New Baneshwor, Kathmandu </address>
+		<telephone> 01-422222, 01-435643 </telephone>
+		<website>www.RRcars.com</website>
+		<ceo >
+			<name title="Mr.">
+				<firstName> Shikhar </firstName>
+				<lastName> Joshi </lastName>
+			</name>
+			<email>business.joshi001@gmail.com</email>
+			<mobileNo>+977-9819223451</mobileNo>
+		</ceo>
+	</details>
+
+	<items>
+		<model number='1' availability="In-stock"> 
+			<image></image>
+			<modelName> Dzire</modelName>
+			<bodyType>Sedan</bodyType>
+			<quantity>2</quantity>
+			<price Currency="Nrs"> 14,50,000</price>
+			<carType type="Fuel">Petrol</carType>
+			<mileage>17.8 kmpl</mileage>
+			<power>76 bhp @ 4000 rpm</power>
+			<transmission>Manual</transmission>
+			<manufacturer>Suzuki</manufacturer>
+			<color>Red, Black</color>
+			<displacement>1497 cc</displacement>
+			<dimension measurement="feet">
+				<length>13.11</length>
+				<width>5.69</width>
+				<height>4.97</height>
+				<wheelbase>8.04</wheelbase>
+			</dimension>
+			<description>
+				<![CDATA[ It is available with the Manual and Automatic transmission. 
+				Depending upon the variant and fuel type the Dzire has a mileage of 23.26 to 24.12 kmpl. 
+				The Dzire is a 5 seater Sedan and has a length of 3995mm, width of 1735mm and a wheelbase of 2450mm.
+				]]>
+			</description>
+		</model>
+		
+		<model number="2" availability="In-stock"> 		
+			<image></image>
+			<modelName>Honda City</modelName>
+			<bodyType>Sedan</bodyType>
+			<quantity>1</quantity>
+			<price Currency="NPR">10,00,000</price>
+			<carType type="Fuel">Petrol</carType>
+			<mileage>22 kmpl</mileage>
+			<power>76 bhp @ 4000 rpm</power>
+			<transmission>Manual</transmission>
+			<manufacturer>Honda</manufacturer>
+			<color>White Orchid </color>
+			<displacement>1497 cc</displacement>
+			<dimension measurement="feet">
+				<length>14.57</length>
+				<width>5.56</width>
+				<height>4.9</height>
+				<wheelbase>8.53</wheelbase>
+			</dimension>
+			<description>
+				<![CDATA[ Honda City is a subcompact, then a compact car which has been produced by the Japanese manufacturer Honda since 1981. 
+				Originally made for the Japanese, European and Australasian markets, the City 3-door hatchback was retired in 1994 after the second generation.
+				]]>
+			</description>
+		</model>
+		
+		<model number="3" availability="In-stock"> 		
+			<image></image>
+			<modelName>Ford Figo</modelName>
+			<bodyType>Sedan</bodyType>
+			<quantity>3</quantity>
+			<price Currency="Nrs.">24,99,000</price>
+			<carType type="Fuel">Petrol, Disel</carType>
+			<mileage>20.4kmpl</mileage>
+			<power>95 bhp @ 3750 rpm</power>
+			<transmission>Manual</transmission>
+			<manufacturer>Ford</manufacturer>
+			<color>Red, White</color>
+			<displacement>1499 cc</displacement>
+			<dimension measurement="feet">
+				<length>12.93</length>
+				<width>5.59</width>
+				<height>5</height>
+				<wheelbase>8.17</wheelbase>
+			</dimension>
+			<description>
+				<![CDATA[ The Diesel engine is 1499 cc while the Petrol engine is 1194 cc.
+				It is available with the Manual transmission. 
+				Depending upon the variant and fuel type the Figo has a mileage of 18.5 to 24.4 kmpl. 
+				The Figo is a 5 seater Hatchback and has a length of 3941mm, width of 1704mm and a wheelbase of 2490mm.
+				]]>
+			</description>
+		</model>
+		
+		<model number="4" availability="N/A"> 		
+			<image></image>
+			<modelName>Model S</modelName>
+			<bodyType>Sedan</bodyType>
+			<quantity>0</quantity>
+			<price Currency="Nrs.">1,10,00,000</price>
+			<carType type="Electric">Lithium Battery</carType>
+			<electricRange>630 km</electricRange>
+			<EPA>75 kWh</EPA>
+			<transmission>Automatic</transmission>
+			<manufacturer>Tesla</manufacturer>
+			<color>Red, Black</color>
+			<displacement>N/A</displacement>
+			<dimension measurement="inches">
+				<length>195.9</length>
+				<width>77.3</width>
+				<height>56.5</height>
+				<wheelbase>116.5</wheelbase>
+			</dimension>
+			<description>
+				<![CDATA[ With an electric motor dedicated to each of the front and rear axles, the Model S offers full-time all-wheel drive no matter which version you choose. 
+				Acceleration performance of the various models ranges from outstanding to ferocious. 
+				Driving range and acceleration performance varies from model to model.
+				]]>
+			</description>
+		</model>
+		 
+		<model number="5" availability="In-stock"> 		
+			<image></image>
+			<modelName>Ecosport Thunder</modelName>
+			<bodyType>SUV</bodyType>
+			<quantity>2</quantity>
+			<price Currency="Nrs.">47,40,000</price>
+			<carType type="Fuel">Petrol</carType>
+			<mileage>21.7 kmpl</mileage>
+			<power>120.69 bhp @ 6000 rpm</power>
+			<transmission>Manual</transmission>
+			<manufacturer>Ford</manufacturer>
+			<color>Thunder White, Smoke Grey</color>
+			<displacement>1496 cc</displacement>
+			<dimension measurement="feet">
+				<length>13.12</length>
+				<width>5.79</width>
+				<height>5.4</height>
+				<wheelbase>8.26</wheelbase>
+			</dimension>
+			<description>
+				<![CDATA[ Equipped with an array of advanced technologies like an electronic Shift-on-Fly system and Hill Launch Assist, Ford SUVs give you unparalleled control over the road – or lack thereof. 
+				Ford’s uniquely powerful-yet-fuel-efficient engines deliver on capability without the fuel-guzzling you’d expect. 
+				So you can get out and explore with peace of mind, knowing you’re driving one of the best SUVs around.
+				]]>
+			</description>
+		</model>
+		
+		<model number="6" availability="In-stock"> 		
+			<image></image>
+			<modelName>Kona electric</modelName>
+			<bodyType>SUV</bodyType>
+			<quantity>1</quantity>
+			<price Currency="Nrs.">65,96,000</price>
+			<carType type="Electric">Lithium Battery</carType>
+			<power>136 hp</power>
+			<electricRange>452km </electricRange>
+			<EPA>39.2kWh </EPA>
+			<transmission>Manual</transmission>
+			<manufacturer>Hyundai</manufacturer>
+			<color>Blue</color>
+			<displacement>N/A</displacement>
+			<dimension measurement="feet">
+				<length>13.71</length>
+				<width>5.91</width>
+				<height>5.15</height>
+				<wheelbase>8.53</wheelbase>
+			</dimension>
+			<description>
+				<![CDATA[ Versatile and fun to drive, the All-New KONA Electric is the first electric compact SUV in Europe. 
+				This ground-breaking newcomer combines exceptional electric driving range with bold SUV style and expansive space – with no compromises.
+				]]>
+			</description>
+		</model>
+		
+		<model number="7" availability="Out of stock"> 		
+			<image></image>
+			<modelName>Compass Trailhawk</modelName>
+			<bodyType>SUV</bodyType>
+			<quantity>0</quantity>
+			<price Currency="Nrs.">76,50,000</price>
+			<carType type="Fuel">Diesel</carType>
+			<mileage>16.3 kmpl</mileage>
+			<power>170hp @ 3750 rpm</power>
+			<transmission>Automatic</transmission>
+			<manufacturer>Jeep</manufacturer>
+			<color>Blue</color>
+			<displacement>1956 cc</displacement>
+			<dimension measurement="inches">
+				<length>173</length>
+				<width>73.8</width>
+				<height>64.8</height>
+				<wheelbase>103.8</wheelbase>
+			</dimension>
+			<description>
+				<![CDATA[ The Jeep Compass Trailhawk has been built with the capability to go anywhere. 
+				The specific trim or model has been tested to withstand various off-road conditions and challenges. 
+				Some of the elements tested are: traction, ground clearance, maneuverability, articulation, and water fording.
+				]]>
+			</description>
+		</model>
+		
+		<model number="8" availability="In-stock"> 		
+			<image></image>
+			<modelName>XUV300</modelName>
+			<bodyType>SUV</bodyType>
+			<quantity>2</quantity>
+			<price Currency="Nrs.">39,75,000</price>
+			<carType type="Fuel">Petrol</carType>
+			<mileage>17 kmpl</mileage>
+			<power>115bhp @ 3750 rpm</power>
+			<transmission>Manual</transmission>
+			<manufacturer>Mahindra</manufacturer>
+			<color>Red, White</color>
+			<displacement>1197 cc</displacement>
+			<dimension measurement="feet">
+				<length>13.11</length>
+				<width>5.97</width>
+				<height>5.34</height>
+				<wheelbase>8.53</wheelbase>
+			</dimension>
+			<description>
+				<![CDATA[ The Mahindra XUV300 is a subcompact SUV produced by the Indian automaker Mahindra & Mahindra. 
+				It is based on the X100 platform of SsangYong Tivoli and has been sold in Indian market since February 2019.
+				]]>
+			</description>
+		</model>
+		
+		<model number="9" availability="In-stock"> 		
+			<image></image>
+			<modelName>Tata H5</modelName>
+			<bodyType>SUV</bodyType>
+			<quantity>3</quantity>
+			<price Currency="Nrs.">56,55,000</price>
+			<carType type="Fuel">Diesel</carType>
+			<mileage>17 kmpl</mileage>
+			<power>138.1 bhp @ 3750 rpm</power>
+			<transmission>Manual</transmission>
+			<manufacturer>Tata</manufacturer>
+			<color>Orange, White</color>
+			<displacement>1956 cc</displacement>
+			<dimension measurement="inches">
+				<length>181</length>
+				<width>74.6</width>
+				<height>67.2</height>
+				<wheelbase>107.9</wheelbase>
+			</dimension>
+			<description>
+				<![CDATA[ The Tata Harrier has 1 Diesel Engine on offer. 
+				The Diesel engine is 1956 cc. It is available with the Manual transmission. 
+				Depending upon the variant and fuel type the Harrier has a mileage of 17.0 kmpl.
+				]]>
+			</description>
+		</model>
+		
+		<model number="10" availability="In-stock"> 		
+			<image></image>
+			<modelName>Maruti Swift</modelName>
+			<bodyType>Hatchback</bodyType>
+			<quantity>3</quantity>
+			<price Currency="Nrs.">28,99,000</price>
+			<carType type="Fuel">Petrol</carType>
+			<mileage>20.4 kmpl</mileage>
+			<power>83 bhp @ 6000 rpm</power>
+			<transmission>Manual</transmission>
+			<manufacturer>Suzuki</manufacturer>
+			<color>Red, White</color>
+			<displacement>1197 cc</displacement>
+			<dimension measurement="feet">
+				<length>12.6</length>
+				<width>5.69</width>
+				<height>5.02</height>
+				<wheelbase>8.04</wheelbase>
+			</dimension>
+			<description>
+				<![CDATA[ The new generation Maruti Suzuki Swift is available in both petrol and diesel engine options, and for the first time get the option of a diesel automatic as well. 
+				We drove the India spec model last month and came back very impressed with how much the car has evolved in its latest avatar.
+				]]>
+			</description>
+		</model>
+		
+		<model number="11" availability="Out of stock"> 		
+			<image></image>
+			<modelName>KWID</modelName>
+			<bodyType>Hatchback</bodyType>
+			<quantity>0</quantity>
+			<price Currency="Nrs.">39,75,000</price>
+			<carType type="Fuel">Petrol</carType>
+			<mileage>25.17 kmpl</mileage>
+			<power>53 bhp @ 5678 RPM</power>
+			<transmission>Manual</transmission>
+			<manufacturer>RENAULT </manufacturer>
+			<color>Blue</color>
+			<displacement>1197 cc</displacement>
+			<dimension measurement="feet">
+				<length>12.24</length>
+				<width>5.18</width>
+				<height>4.84</height>
+				<wheelbase>7.95</wheelbase>
+			</dimension>
+			<description>
+				<![CDATA[ The new Renault KWID is built to stand out with new, pronounced exteriors that add prominence to the car’s renowned SUV look and dual tone interiors that leave a lasting impression.
+				Its Smart Control Efficiency (SCe) engine technology optimises its performance and fuel efficiency.
+				]]>
+			</description>
+		</model>	
+		
+		<model number="12" availability= "In-stock"> 		
+			<image></image>
+			<modelName>Golf GTE</modelName>
+			<bodyType>Hatchback</bodyType>
+			<quantity>1</quantity>
+			<price Currency="Nrs.">28,95,000</price>
+			<carType type="Hybrid">Petrol, Lithium Battery </carType>
+			<power>201 hp</power>
+			<electricRange>11.4 kWh</electricRange>
+			<EPA>50km</EPA>
+			<fuelRange>600km</fuelRange>
+			<transmission>Automatic</transmission>
+			<manufacturer>Volkswagen </manufacturer>
+			<color>Silver White</color>
+			<displacement>1395 cc</displacement>
+			<dimension measurement="mm">
+				<length>4370</length>
+				<width>1799</width>
+				<height>1449</height>
+				<wheelbase>2626</wheelbase>
+			</dimension>
+			<description>
+				<![CDATA[ The Volkswagen Golf GTE is a plug-in hybrid (PHEV). 
+				The maximum power of the Volkswagen Golf GTE is 150 kW (201 hp). 
+				The maximum torque is 258 lb-ft. 
+				The Volkswagen Golf GTE is front wheel drive and can accelerate from 0 to 62 miles per hour in 7.6 seconds. 
+				The top speed is 138 mph.
+				]]>
+			</description>
+		</model>
+		
+		<model number="13" availability="In-stock"> 		
+			<image></image>
+			<modelName>Grand i10</modelName>
+			<bodyType>Hatchback</bodyType>
+			<quantity>2</quantity>
+			<price Currency="Nrs.">33,96,000</price>
+			<carType type="Fuel">Petrol</carType>
+			<mileage>19 kmpl</mileage>
+			<power>81bhp@6000rpm</power>
+			<transmission>Manual</transmission>
+			<manufacturer>Hyundai</manufacturer>
+			<color>Navy Blue, Black</color>
+			<displacement>1197 cc</displacement>
+			<dimension measurement="feet">
+				<length>12.35</length>
+				<width>5.45</width>
+				<height>4.99</height>
+				<wheelbase>7.96</wheelbase>
+			</dimension>
+			<description>
+				<![CDATA[ The Hyundai Grand i10 gets a facelift and a makeover by fresh and new looks and some much needed features. 
+				The car has been upgraded not just in terms of looks but the engines have been tweaked too.
+				The progress through gears is quick. 
+				The improved drivability allows you to hold the car in higher gears at city speeds.
+				]]>
+			</description>
+		</model>
+		
+		<model number="14" availability="In-stock"> 
+			<image></image>
+			<modelName>RAV4</modelName>
+			<bodyType>SUV</bodyType>
+			<quantity>1</quantity>
+			<price Currency="Nrs.">14,450,000 </price>
+			<carType type="Hybrid">Petrol, Lithium Battery </carType>
+			<power>176 bhp</power>
+			<electricRange>43 kWh</electricRange>
+			<EPA>153 km</EPA>
+			<fuelRange>684km</fuelRange>
+			<transmission>Automatic</transmission>
+			<manufacturer>Toyota </manufacturer>
+			<color>Clear White</color>
+			<displacement>2494 cc</displacement>
+			<dimension measurement="inches">
+				<length>181.5</length>
+				<width>73.4</width>
+				<height>68.6</height>
+				<wheelbase>105.9</wheelbase>
+			</dimension>
+			<description>
+				<![CDATA[ Toyota Ravufō) is a compact crossover SUV (sport utility vehicle) produced by the Japanese automobile manufacturer Toyota. 
+				This was the first compact crossover SUV.  
+				It delivers impressive fuel economy and comes loaded with plenty of standard features
+				]]>
+			</description>
+		</model>
+		
+		<model number="15" availability="N/A"> 		
+			<image></image>
+			<modelName>Ioniq</modelName>
+			<bodyType>Sedan</bodyType>
+			<quantity>0</quantity>
+			<price Currency="Nrs.">55,96,000</price>
+			<carType type="Electric">Lithium Battery</carType>
+			<electricRange>200 km</electricRange>
+			<EPA>38.3 kWh</EPA>
+			<transmission>Automatic</transmission>
+			<manufacturer>Hyundai</manufacturer>
+			<color>Ceramic White</color>
+			<displacement>N/A</displacement>
+			<dimension measurement="inches">
+				<length>176</length>
+				<width>71.7</width>
+				<height>58.1</height>
+				<wheelbase>106.3</wheelbase>
+			</dimension>
+			<description>
+				<![CDATA[ The Hyundai Ioniq is a compact five door liftback manufactured and marketed by Hyundai. 
+				The nameplate Ioniq is a portmanteau of ion and unique. 
+				It is the first automobile to be offered in hybrid, plug-in hybrid, and all-electric variants.
+				]]>
+			</description>
+		</model>
+		
+		<model number="16" availability="In-stock"> 		
+			<image></image>
+			<modelName>Vitara Brezza</modelName>
+			<bodyType>Crossover</bodyType>
+			<quantity>2</quantity>
+			<price Currency="Nrs.">39,49,000</price>
+			<carType type="Fuel">Diesel</carType>
+			<mileage>24.3 kmpl</mileage>
+			<power> 89 bhp @ 4000 RPM</power>
+			<transmission>Manual</transmission>
+			<manufacturer>Suzuki</manufacturer>
+			<color>Red, Yellow</color>
+			<displacement>1248 cc</displacement>
+			<dimension measurement="feet">
+				<length>13.11</length>
+				<width>5.87</width>
+				<height>5.38</height>
+				<wheelbase>8.2</wheelbase>
+			</dimension>
+			<description>
+				<![CDATA[ The Maruti Suzuki Vitara Brezza is a subcompact crossover SUV manufactured by Maruti Suzuki.
+				The Maruti Suzuki Vitara Brezza exterior is undoubtedly the highlight of this vehicle.
+				This vehicle is one of the more spacious of vehicles from Maruti.
+				]]>
+			</description>
+		</model>
+		
+		<model number="17" availability="In-stock"> 		
+			<image></image>
+			<modelName>Seltos</modelName>
+			<bodyType>Crossover SUV</bodyType>
+			<quantity>1</quantity>
+			<price Currency="Nrs.">76,90,000</price>
+			<carType type="Fuel">Diesel</carType>
+			<mileage>17.8 kmpl</mileage>
+			<power> 113.4bhp@4000rpm</power>
+			<transmission>Manual</transmission>
+			<manufacturer>Kia</manufacturer>
+			<color>Steel Silver</color>
+			<displacement>1493 cc</displacement>
+			<dimension measurement="mm">
+				<length>4315</length>
+				<width>1800</width>
+				<height>1645</height>
+				<wheelbase>2610</wheelbase>
+			</dimension>
+			<description>
+				<![CDATA[ The Kia Seltos is a subcompact crossover SUV built by Kia Motors.
+				Based on the Kia SP Signature concept car, its name is derived from "Celtos", the son of Hercules in Greek mythology.
+				 It stands out well in a crowd with its stylish design and top-spec finish.
+				]]>
+			</description>
+		</model>
+		
+		<model number="18" availability="Out of stock"> 		
+			<image></image>
+			<modelName>Xv CrossTrek</modelName>
+			<bodyType>Crossover SUV</bodyType>
+			<quantity>0</quantity>
+			<price Currency="Nrs.">10,300,000</price>
+			<carType type="Fuel">Petrol</carType>
+			<mileage>21.26 kmpl</mileage>
+			<power> 110 bhp@6000rpm</power>
+			<transmission>Manual</transmission>
+			<manufacturer>Subaru</manufacturer>
+			<color>Steel Silver</color>
+			<displacement>1995 cc</displacement>
+			<dimension measurement="mm">
+				<length>4450</length>
+				<width>1760</width>
+				<height>1570</height>
+				<wheelbase>2635</wheelbase>
+			</dimension>
+			<description>
+				<![CDATA[ The Subaru XV Crosstrek is a decent pick if you're in the market for a used subcompact SUV. 
+				The Crosstrek has a spacious and attractive interior, refined handling, good fuel economy, and a large suite of available safety features.
+				Since it's based on the Subaru Impreza, it's not surprising that the Subaru XV Crosstrek drives similarly.
+				]]>
+			</description>
+		</model>
+		
+		<model number="19" availability="In-stock"> 		
+			<image></image>
+			<modelName>Hilux</modelName>
+			<bodyType>Pickup Truck</bodyType>
+			<quantity>1</quantity>
+			<price Currency="Nrs.">87,50,000</price>
+			<carType type="Fuel">Petrol</carType>
+			<mileage>11 kmpl</mileage>
+			<power> 74 bhp@4000rpm</power>
+			<transmission>Manual</transmission>
+			<manufacturer>Toyota</manufacturer>
+			<color>Glacier White</color>
+			<displacement>2779 cc</displacement>
+			<dimension measurement="mm">
+				<length>4690</length>
+				<width>1690</width>
+				<height>1805</height>
+				<wheelbase>2840</wheelbase>
+			</dimension>
+			<description>
+				<![CDATA[ Growing from a small, utilitarian workhorse to a fully featured, dual-purpose vehicle. 
+				The HiLux has stuck with the same basic formula since its introduction to the Australian landscape in 1968.
+				It added a choice of petrol and diesel engines, 4x2 and 4x4 drive types and a choice between single, extra and dual cab bodies with either a pickup tray or cab chassis. 
+				Although it faces more opposition than ever from almost every competitor, the HiLux is still a byword for reliability and utility.
+				]]>
+			</description>
+		</model>
+		
+		<model number="20" availability="In-stock"> 		
+			<image></image>
+			<modelName>BT-50</modelName>
+			<bodyType>Pickup Truck</bodyType>
+			<quantity>2</quantity>
+			<price Currency="Nrs.">55,00,000</price>
+			<carType type="Fuel">Diesel</carType>
+			<mileage>12 kmpl</mileage>
+			<power> 148 bhp@3700rpm</power>
+			<transmission>Manual</transmission>
+			<manufacturer>Mazda</manufacturer>
+			<color>Blue Mica, Grey</color>
+			<displacement>2499 cc</displacement>
+			<dimension measurement="mm">
+				<length>5359</length>
+				<width>1849</width>
+				<height>1741</height>
+				<wheelbase>3226</wheelbase>
+			</dimension>
+			<description>
+				<![CDATA[ Mazda BT-50 is built tough to take on any task, and do it in style. 
+				It delivers grunt and refined comfort with every drive. 
+				Fill it with gear, pull a load or take it off road. 
+				As a workhorse or a weekend warrior, it’s always up to the challenge.
+				]]>
+			</description>
+		</model>
+	</items>
+</ReclaimedRust>
