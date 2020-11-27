@@ -1,0 +1,10 @@
+1,Lost Time,Marcel Proust,19,$4.5 
+2,The Hamlet,William Smith,7,$4.99 
+3,War/Peace,Leona Toistoy,18,$3.5 
+4,The Gatsby,Fedred Scott,20,$2 
+5,Programming,Johnny Smmith,10,$1.5 
+6,The Hobbit,Jofrey Tokien,10,$3 
+7,Hunger Game,Salmon Colins,20,$4 
+8,Algorithms,Thomas Cormen,10,$2.99 
+9,Clean Code,Robert Martin,14,$2 
+10,Animal Farm,George Orwell,10,$2.5 

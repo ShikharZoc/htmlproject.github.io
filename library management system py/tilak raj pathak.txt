@@ -1,0 +1,4 @@
+2,The Hamlet,William Smith,$4.99 ,2019-06-08 15:02:55
+9,Clean Code,Robert Martin,$2 ,2019-06-08 15:03:03
+customer's name: tilak raj pathak
+Net Total: 6.99

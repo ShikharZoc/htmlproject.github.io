@@ -1,0 +1,4 @@
+2,The Hamlet,William Smith,$4.99 ,2019-01-30 08:29:30
+3,War/Peace,Leona Toistoy,$3.5 ,2019-01-30 08:29:35
+customer's name: qwerty
+Net Total: 8.49

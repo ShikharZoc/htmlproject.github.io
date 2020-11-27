@@ -1,0 +1,3 @@
+2,The Hamlet,William Smith,$4.99 ,2019-06-17 15:14:55
+customer's name: cj
+Net Total: 4.99

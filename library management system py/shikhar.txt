@@ -1,0 +1,6 @@
+1,Lost Time,Marcel Proust,$4.5 ,2019-01-30 07:38:30
+customer's name: shikhar
+Net Total: 4.5
+1,Lost Time,Marcel Proust,0,2019-01-30
+customer's name: shikhar
+Net total: 0

@@ -1,0 +1,4 @@
+1,Lost Time,Marcel Proust,$4.5 ,2019-01-30 21:20:35
+3,War/Peace,Leona Toistoy,$3.5 ,2019-01-30 21:20:41
+customer's name: pada
+Net Total: 8.0
